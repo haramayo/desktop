@@ -1,0 +1,3 @@
+<?php
+$puntero=fopen("c:ArchivoGanadoresganadoresDelMes.txt","a+"); fwrite($file,"nombregranador"); $nombreganador="pedro peres , 2.222.222.-2 "; Fclose($file);
+?>
